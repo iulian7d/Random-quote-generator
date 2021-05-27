@@ -59,10 +59,10 @@ function App(){
             )}
             <div className="row">
               <button onClick={getNewQuote} className="btn btn-primary ml-3"> New Quote </button>
-              <a href="https://twitter.com/freecodecamp?lang=en" className="btn btn-warning">
+              <a href="https://twitter.com" className="btn btn-warning">
                 <i className="fa fa-twitter"></i>
               </a>
-              <a href="https://www.tumblr.com/search/freecodecamp" className="btn btn-danger">
+              <a href="https://www.tumblr.com" className="btn btn-danger">
                 <i className="fa fa-tumblr"></i>
               </a>
             </div>
